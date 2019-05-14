@@ -1,6 +1,6 @@
 class Task7{
 	public static void main(String args[]){
-		String s1="Raja,17,Software;Osama,18,Software";
+		String s1="Aqib,20,Software;Murtaza,19,Software";
 		String str[]=s1.split(";");
 		String str1[]=str[0].split(",");
 		String str2[]=str[1].split(",");
