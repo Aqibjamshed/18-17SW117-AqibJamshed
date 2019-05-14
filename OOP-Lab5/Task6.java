@@ -1,6 +1,6 @@
 class Task6{
 	public static void main(String args[]){
-		Student s1=new Student("Raja","18SW44","Software Engineering",18);
+		Student s1=new Student("Aqib","18-17SW117","Software Engineering",18);
 		Marksheet m1=new Marksheet();
 		m1.setDetails(90,90,90,300);
 		Combine c1=new Combine(s1,m1);
