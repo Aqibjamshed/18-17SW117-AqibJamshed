@@ -1,6 +1,6 @@
 class Task4{
 	public static void main(String args[]){
-		Student std=new Student("Raja","18SW44","Software Engineering",17);
+		Student std=new Student("Aqib","18-17SW117","Software Engineering",19);
 		std.showDetails();
 	}
 }
